@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "662167553744",
+    "firebase_url": "https://realtimedb-4daf0.firebaseio.com",
+    "project_id": "realtimedb-4daf0",
+    "storage_bucket": "realtimedb-4daf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662167553744:android:96bc01f1df7e37d8e6c0d5",
+        "android_client_info": {
+          "package_name": "com.kitkat.realtimedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662167553744-1qbd8hu68ud29fdiqngjf8526alcflki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpW012J857KxKt8a1TQ4ETD0ljCX63NEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662167553744-1qbd8hu68ud29fdiqngjf8526alcflki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
